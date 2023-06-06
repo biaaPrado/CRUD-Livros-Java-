@@ -1,4 +1,4 @@
-# CRUDLivros.java
+# CRUD Livros.java
 Aplicativo Java para realizar operações básicas de CRUD em uma coleção de livros. O objetivo deste projeto é fornecer uma estrutura simples e funcional para gerenciar informações sobre livros, permitindo adicionar, visualizar, atualizar e excluir registros. Os dados armazenados localmente em arquivo txt, a qual é feita a pesquisa.
 
 Funcionalidades
